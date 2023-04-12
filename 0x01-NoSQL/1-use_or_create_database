@@ -1,2 +1,2 @@
-/ Creates or uses a MongoDB database.
+// Creates or uses a MongoDB database.
 use my_db;
